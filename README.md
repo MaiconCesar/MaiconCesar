@@ -1,6 +1,6 @@
-Olá! meu nome é Maicon Cesar de Mattos
+Olá! meu nome é Maicon Cesar de Mattos.
 
-Estudante de analise e desenvolvimento de sistemas.
+Estudante de analise  e desenvolvimento de sistemas.
 
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](MaiconCesarPimenta@hotmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maiconcesardemattos/) 
